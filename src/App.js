@@ -8,7 +8,6 @@ class App extends Component {
     name: "Tesafye"
   }
   render(){
-    console.log("Name of the author")
     return (
       <div className="App">
         <header className="App-header">
